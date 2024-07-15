@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="registro-clientes-javaswing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/registro-clientes-javaswing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
